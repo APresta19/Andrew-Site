@@ -1,0 +1,7 @@
+videos/generatedparkour.mkv filter=lfs diff=lfs merge=lfs -text
+videos/intercom.mkv filter=lfs diff=lfs merge=lfs -text
+videos/cakegluttony.mkv filter=lfs diff=lfs merge=lfs -text
+videos/msb.mkv filter=lfs diff=lfs merge=lfs -text
+*.mkv filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+videos/intercom.mp4 filter=lfs diff=lfs merge=lfs -text
